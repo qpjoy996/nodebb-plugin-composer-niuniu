@@ -119,7 +119,7 @@
 					<span class="toggle-preview hide">[[modules:composer.show_preview]]</span>
 				</div>
 				<div class="pull-right draft-icon hidden-md hidden-lg"></div>
-				<textarea class="write" tabindex="4"></textarea>
+				<textarea class="write" tabindex="4" placeholder="温馨提示：为了让您的问题能更好更快的得到解答，请在提问时上传出现问题的smap、代码，附上演示视频或者截图~"></textarea>
 			</div>
 			<div class="hidden-sm hidden-xs preview-container">
 				<div class="help-text">

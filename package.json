@@ -1,11 +1,11 @@
 {
-  "name": "nodebb-plugin-composer-default",
-  "version": "6.3.17",
-  "description": "Default composer for NodeBB",
+  "name": "nodebb-plugin-composer-niuniu",
+  "version": "0.0.4",
+  "description": "Niuniu composer for NodeBB",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/nodebb-plugin-composer-default"
+    "url": "https://github.com/qpjoy996/nodebb-plugin-composer-niuniu"
   },
   "keywords": [
     "nodebb",
@@ -14,16 +14,16 @@
     "markdown"
   ],
   "author": {
-    "name": "NodeBB Team",
-    "email": "sales@nodebb.org"
+    "name": "Kevin sun",
+    "email": "qpjoy996@163.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NodeBB/nodebb-plugin-composer-default/issues"
+    "url": "https://github.com/qpjoy996/nodebb-plugin-composer-niuniu/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
-    "compatibility": "^1.13.0"
+    "compatibility": "^1"
   },
   "dependencies": {
     "screenfull": "^4.0.0",
