@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-composer-niuniu",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Niuniu composer for NodeBB",
   "main": "library.js",
   "repository": {
@@ -23,7 +23,7 @@
   },
   "readmeFilename": "README.md",
   "nbbpm": {
-    "compatibility": "^1"
+    "compatibility": "^1.13.0"
   },
   "dependencies": {
     "screenfull": "^4.0.0",
